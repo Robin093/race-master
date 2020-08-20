@@ -1,57 +1,78 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="FighterJetRace.Data" Collapsed="true">
-    <Position X="3" Y="0.5" Width="1.5" />
+    <Position X="3.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAIQAAAAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Data.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FighterJetRace.playerfactory" Collapsed="true">
-    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Position X="9.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAQIAAAAAAABIAAAAAAAAAAAgAAAAAAAAAAAAAAAI=</HashCode>
       <FileName>playerfactory.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FighterJetRace.Form1" Collapsed="true">
-    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Position X="5.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AIAAEAAAEDAAABgAAICAAABCAAAAQUACAAkgAgAAgAI=</HashCode>
       <FileName>Form1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FighterJetRace.PlaceBet" Collapsed="true">
-    <Position X="0.5" Y="1.75" Width="1.5" />
+    <Position X="9.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAgBAAAAAABAAAAEA=</HashCode>
       <FileName>PlaceBet.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="FighterJetRace.PlacerBet" Collapsed="true">
-    <Position X="0.5" Y="3.25" Width="1.5" />
+  <Class Name="FighterJetRace.better" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAEAAAAAAAEAAAAAAAAAICIAAAkAAAAQAAAAAAAAIA=</HashCode>
-      <FileName>PlacerBet.cs</FileName>
+      <FileName>better.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FighterJetRace.Program" Collapsed="true">
-    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FighterJetRace.Properties.Resources" Collapsed="true">
-    <Position X="3" Y="1.5" Width="1.5" />
+    <Position X="5.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAEAAAAAAAAAABEAAAAQAAgEAAAAAAEAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="FighterJetRace.Properties.Settings" Collapsed="true">
-    <Position X="4.75" Y="1.5" Width="1.5" />
+    <Position X="7.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FighterJetRace.Player1" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FighterJetRace.Player2" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FighterJetRace.Player3" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player3.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

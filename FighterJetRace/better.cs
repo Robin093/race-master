@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace FighterJetRace
 {
-    class PlacerBet : PlaceBet
+    class better 
     {
         public string name { get; set; }
         public int balance { get; set; }

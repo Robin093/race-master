@@ -9,7 +9,7 @@ namespace FighterJetRace
     class PlaceBet : playerfactory
     {
         public int BetAmount { get; set; }
-        public PlacerBet gambler { get; set; }
+        public better gambler { get; set; }
         public int jet { get; set; }
         public int rewardMultiplier = 4;
 

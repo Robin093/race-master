@@ -35,9 +35,9 @@ namespace FighterJetRace
             Data.jet[3] = new playerfactory() { JetImgImg = JetRed, startPos = startPos, finalPos = RaceTrackLength };
 
             // Initialize all the gamblers
-            Data.bettor[0] = new PlacerBet() { balance = 65, activity = label1, listOfBettors = radioButton1, name = "Player 1" };
-            Data.bettor[1] = new PlacerBet() { balance = 75, activity = label2, listOfBettors = radioButton2, name = "Player 2" };
-            Data.bettor[2] = new PlacerBet() { balance = 55, activity = label3, listOfBettors = radioButton3, name = "Player 3" };
+            Data.bettor[0] = new better() { balance = 65, activity = label1, listOfBettors = radioButton1, name = "Player 1" };
+            Data.bettor[1] = new better() { balance = 75, activity = label2, listOfBettors = radioButton2, name = "Player 2" };
+            Data.bettor[2] = new better() { balance = 55, activity = label3, listOfBettors = radioButton3, name = "Player 3" };
 
             // Update all the activity labels to default
             Data.bettor[0].UpdateActivity();
